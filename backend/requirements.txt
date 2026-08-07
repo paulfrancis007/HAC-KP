@@ -1,1 +1,6 @@
-# Phase 1 — dependencies will be added in later phases
+streamlit>=1.32.0
+google-generativeai>=0.5.0
+networkx>=3.2
+pyvis>=0.3.2
+python-dotenv>=1.0.0
+pandas>=2.2.0
